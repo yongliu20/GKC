@@ -1,4 +1,4 @@
-# Global Knowledge Calibration for Fast Open-Vocabulary Segmentation
+# [ICCV2023] Global Knowledge Calibration for Fast Open-Vocabulary Segmentation
 Kunyang Han*, Yong Liu*, Jun Hao Liew, Henghui Ding, Yunchao Wei, Jiajun Liu, Yitong Wang, Yansong Tang, Yujiu Yang, Jiashi Feng, Yao Zhao
 (*equal contribution)
 
